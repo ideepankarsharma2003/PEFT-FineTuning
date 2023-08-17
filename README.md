@@ -1,4 +1,4 @@
-# Minimal LLaMA
+# PEFT FINE TUNING: Minimal LLaMA
 
 This repo contains a random assortment of code for running and fine-tuning LLaMA. Many parts are still work in progress. There ought to be more efficient methods of tuning (DeepSpeed / ZeRO, NeoX) than the ones presented here, but folks may find this useful already.
 
